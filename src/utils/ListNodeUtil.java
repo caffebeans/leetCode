@@ -1,6 +1,5 @@
 package utils;
 
-import sun.jvm.hotspot.tools.SysPropsDumper;
 
 import java.util.Deque;
 import java.util.LinkedList;
